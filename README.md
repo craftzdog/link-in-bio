@@ -3,7 +3,7 @@ Link-in-bio for Craftzdog
 
 ![thumbnail](./thumb.jpg)
 
-Tutorial available here.
+[Video tutorial available here](https://youtu.be/u71pHOyvBp0).
 
 ## License
 
