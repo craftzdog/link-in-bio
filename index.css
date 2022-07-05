@@ -40,7 +40,7 @@ main.animated {
 }
 
 header {
-  margin-top: 1em;
+  margin-top: 3em;
   text-align: center;
   display: flex;
   flex-direction: column;
