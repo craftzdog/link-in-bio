@@ -81,7 +81,6 @@ ul > li {
   backdrop-filter: blur(10px) saturate(160%) contrast(180%);
   -webkit-backdrop-filter: blur(10px) saturate(160%) contrast(180%);
   border-radius: 10em;
-  padding: 1em;
   margin: 1.4em 0;
   box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
   cursor: pointer;
@@ -97,6 +96,7 @@ ul > li > a {
   justify-content: center;
   align-items: center;
   gap: 0.5em;
+  padding: 1em;
 }
 
 a {
